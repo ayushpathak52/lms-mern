@@ -30,7 +30,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://lms-frontend-kappa-five.vercel.app"
+      "https://lms-frontend-three-hazel.vercel.app"
     ],
     credentials: true,
   })
